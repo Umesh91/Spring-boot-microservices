@@ -1,0 +1,7 @@
+how to run microservices project
+1) run the springboot Eureka Server
+2) run the springboot service A
+3) run the springboot service B
+4) run the springbootApiGateway 
+
+On Postman check the endpoints response.
